@@ -1,0 +1,24 @@
+/**
+* @name Death Note Reborn
+* @version 1.1
+* @description I'm Kira.
+* @author Just Horrid
+* @invite 
+* @Source https://github.com/monstrousdev/themes
+* @website https://betterdiscord.app/theme/Reborn
+*/
+@import url("https://monstrousdev.github.io/themes/phoenix-bundle/reborn.css");
+@import url('https://codedotspectra.github.io/themes/core/custom-font.css');
+:root {
+--roundness: 25px;
+--main-color: #AD253AFF;
+--hover-color: #87299B95;
+--home-color: #EE0000FF;
+--home-size: 25px;
+--shadow: #130D6CC9;
+--background-image: url('https://i.imgur.com/ObBfBN2.jpg');
+--background-blur: 0px;
+--background-darkness: 0;
+--popup-background: url('https://i.imgur.com/FBDsRWI.png');
+--customFont: 'Harrington Regular';
+}

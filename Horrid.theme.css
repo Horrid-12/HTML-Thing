@@ -1,0 +1,42 @@
+/**
+* @name Horrid's v1
+* @version 1.0
+* @description One of the cringe stuffs created back then
+* @author Spectra
+* @invite PZdnCVD
+* @Source https://github.com/codedotspectra/themes
+* @website https://betterdiscord.app/theme/Neutron
+*/
+@import url("https://codedotspectra.github.io/themes/themes-cores/neutron8.css");
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
+:root {
+--themeColor1: #DC63335F;
+--themeColor2: #E531B4D6;
+--customFont: 'Minecraft';
+--homeImage: url('https://i.imgur.com/Wy0S9vj.gif');
+--homeImageSize: cover;
+--backgroundColor: #091A4DFF;
+--backgroundImage: url('https://i.imgur.com/Bl4SB17.jpg');
+--backgroundPosition: center;
+--backgroundSize: cover;
+--backgroundRepeat: no-repeat;
+--backgroundBlur: 0px;
+--backgroundOpacity: 0.65;
+--HSL-server-icon-size: 40px;
+--HSL-server-spacing: 10px;
+--rs-small-spacing: 2px;
+--rs-medium-spacing: 3px;
+--rs-large-spacing: 4px;
+--rs-small-width: 2px;
+--rs-medium-width: 3px;
+--rs-large-width: 4px;
+--rs-avatar-shape: 50%;
+--rs-online-color: #43b581;
+--rs-idle-color: #faa61a;
+--rs-dnd-color: #f04747;
+--rs-offline-color: #636b75;
+--rs-streaming-color: #643da7;
+--rs-invisible-color: #747f8d;
+--rs-phone-visible: block;
+}
